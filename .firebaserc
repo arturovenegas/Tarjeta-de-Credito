@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tarjetacredito-36d81": {
+      "hosting": {
+        "tarjetaCredito": [
+          "tarjetacredito-36d81"
+        ]
+      }
+    }
+  }
+}
